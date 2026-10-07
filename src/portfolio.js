@@ -42,7 +42,8 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "SOFTWARE DEVELOPER PASSIONATE ABOUT MODERN TECHNOLOGIES & CLEAN CODE",
+  subTitle:
+    "SOFTWARE DEVELOPER PASSIONATE ABOUT MODERN TECHNOLOGIES & CLEAN CODE",
   skills: [
     emoji(
       "⚡ Development of web portals, serverless cloud workflows, and RESTful APIs"
@@ -195,7 +196,8 @@ const bigProjects = {
 
 const achievementSection = {
   title: emoji("Achievements And Certifications 🏆 "),
-  subtitle: "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
+  subtitle:
+    "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
   achievementsCards: [],
   display: false // Set false to hide this section, defaults to true
 };
@@ -204,7 +206,8 @@ const achievementSection = {
 
 const blogSection = {
   title: "Blogs",
-  subtitle: "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
+  subtitle:
+    "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
   displayMediumBlogs: "false", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [],
   display: false // Set false to hide this section, defaults to true
@@ -214,7 +217,9 @@ const blogSection = {
 
 const talkSection = {
   title: "TALKS",
-  subtitle: emoji("I LOVE TO SHARE MY LIMITED KNOWLEDGE AND GET A SPEAKER BADGE 😅"),
+  subtitle: emoji(
+    "I LOVE TO SHARE MY LIMITED KNOWLEDGE AND GET A SPEAKER BADGE 😅"
+  ),
   talks: [],
   display: false // Set false to hide this section, defaults to true
 };
@@ -230,7 +235,8 @@ const podcastSection = {
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
-  subtitle: "Discuss a project or just want to say hi? My Inbox is open for all.",
+  subtitle:
+    "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "+39 331 492 1905",
   email_address: "tripodi.alessandro.dev@gmail.com"
 };
