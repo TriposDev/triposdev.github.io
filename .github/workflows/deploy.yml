@@ -22,7 +22,7 @@ jobs:
 
       - name: Install and Build 🔧 # Build the Project
         run: |
-          npm install
+          npm install --ignore-scripts
           npm run build
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@releases/v3
