@@ -105,7 +105,7 @@ const educationInfo = {
       duration: "2021 - 2022",
       desc: "Vercelli, Italia",
       descBullets: [],
-      logo: require("./assets/images/uniupo.jpg")
+      logo: require("./assets/images/uniupo.png")
     },
     {
       schoolName: "ITIS Fauser",
