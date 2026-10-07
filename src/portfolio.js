@@ -100,14 +100,6 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Università degli Studi del Piemonte Orientale",
-      subHeader: "Informatica (First year)",
-      duration: "2021 - 2022",
-      desc: "Vercelli, Italia",
-      descBullets: [],
-      logo: require("./assets/images/uniupo.png")
-    },
-    {
       schoolName: "ITIS Fauser",
       subHeader: "Diploma in Informatica (100/100)",
       duration: "2016 - 2021",
