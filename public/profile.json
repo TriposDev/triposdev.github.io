@@ -1,0 +1,49 @@
+{
+  "data": {
+    "user": {
+      "name": "Alessandro Tripodi",
+      "bio": "Software Developer",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/119407992?v=4",
+      "location": "Italy",
+      "pinnedItems": {
+        "totalCount": 2,
+        "edges": [
+          {
+            "node": {
+              "name": "battleship-challenge",
+              "description": ".NET 10 + React (Vite) exercise wich allows user to play a simple battleship game against CPU",
+              "forkCount": 0,
+              "stargazers": {
+                "totalCount": 0
+              },
+              "url": "https://github.com/TriposDev/battleship-challenge",
+              "id": "1358207560",
+              "diskUsage": 60,
+              "primaryLanguage": {
+                "name": "C#",
+                "color": "#178600"
+              }
+            }
+          },
+          {
+            "node": {
+              "name": "PizzAdvisor",
+              "description": "A web portal used for a funny evening with friends. The scope is to vote different pizzas and choose the best pizza of the day.",
+              "forkCount": 0,
+              "stargazers": {
+                "totalCount": 0
+              },
+              "url": "https://github.com/TriposDev/PizzAdvisor",
+              "id": "1288297966",
+              "diskUsage": 1018,
+              "primaryLanguage": {
+                "name": "JavaScript",
+                "color": "#f1e05a"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
