@@ -101,7 +101,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Università degli Studi del Piemonte Orientale",
-      subHeader: "Informatica (Frequentato il Primo Anno)",
+      subHeader: "Informatica (First year)",
       duration: "2021 - 2022",
       desc: "Vercelli, Italia",
       descBullets: [],
